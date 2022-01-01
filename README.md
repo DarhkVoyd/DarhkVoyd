@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DarhkVoyd
-- 👀 I’m interested in learning right now...
-- 🌱 I’m currently learning C language from the basics.
+- 👋 Hi, I’m D V
+- 👀 I’m engaged in learning right now...
+- 🌱 I’m currently learning C and C++ language.
 - 💞️ I’m looking to collaborate on open-source.
-- 📫 How to reach me: Instagram - https://www.instagram.com/darhkvoyd/
+- 📫 How to reach me: Currently Unavailable 
 
 <!---
 DarhkVoyd/DarhkVoyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
