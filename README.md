@@ -1,6 +1,7 @@
-![Current](https://user-images.githubusercontent.com/77478658/151652869-c9da1379-3db0-4b13-9de0-67d61959ebed.png)
+![Current](https://user-images.githubusercontent.com/77478658/151652956-17981c6e-1b64-48ba-b34d-53ded39a4a0a.png)
 
-👋 Hi, I’m D V
+👋 Hi, I’m D V!
+You've probably never heard of me. And I've never thought of writing a README for myself. Usually README's are written for applications and softwares, but here I am writing a README about me. And you cannot star this repo, even if you click the Star button.
 
 
 <!---
