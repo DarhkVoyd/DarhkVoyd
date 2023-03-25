@@ -21,11 +21,8 @@
 
 ![Current](https://user-images.githubusercontent.com/77478658/151652956-17981c6e-1b64-48ba-b34d-53ded39a4a0a.png)
 
-A self-learning developer, content creator with a growing collection of skillset and has always been keen in exploring and learning.
-Currently, immersed into learning and implementing various development/programming techniques and workflows. Moreover, understanding to work in a community and starting to contribute more and more toward open-source projects and planning more projects to develop.
-As a content creator, the raw experience of capturing the world though the lens of my perspective fills me with joy.  
+My goal is to continue learning and growing as a developer while contributing to the open-source community and building projects like Toppings that solve real-world problems. I want to develop my skills in areas like web development, data science, and machine learning, and create tools and applications that make a positive impact on people's lives. Ultimately, I hope to be part of a community that values collaboration, creativity, and innovation, and to inspire others to pursue their passions and make a difference in the world.
 
-The progress made with consistent tireless hard work in a short span of time drives my desire to grow further.  
 <a href="https://www.buymeacoffee.com/darhkvoyd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
