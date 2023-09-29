@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="3%">, I'm <a href="https://bio.link/voyd/">D V!</a></h2>
+  <h2>Hey, I'm <a href="https://bio.link/voyd/">D V!</a></h2>
 </div>
 <br />
 
@@ -10,12 +10,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darhkvoyd&layout=compact&hide=php,css,html,roff&langs_count=10" alt="DarhkVoyd" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darhkvoyd&show_icons=true" alt="DarhkVoyd" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarhkVoyd&layout=compact" />
 </p>
 
 <div align="center">
