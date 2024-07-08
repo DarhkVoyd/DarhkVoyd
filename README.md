@@ -3,7 +3,7 @@
 Currently, learning and growing as a developer by contributing to the open-source community and building projects that solve real-world problems.
 <br />
 <br />
-– [**Toppings**](https://github.com/enrich-platforms/toppings): Unlock a new level of customization, seamlessly enhance your favorite websites, and enjoy a more personalized browsing experience.
+– [**Toppings**](https://github.com/enrich-platforms/toppings): Your Web, Your Way!
 <br />
 
 **P.S.** I use [NeoVim](https://neovim.io) 💪🏻, by the way!
