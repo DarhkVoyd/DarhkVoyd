@@ -3,7 +3,7 @@
 Currently, learning and growing as a developer by contributing to the open-source community and building projects that solve real-world problems.
 <br />
 <br />
-– [**Toppings**](https://github.com/enrich-platforms/toppings): A powerful browser extension that adds an extra layer of flavor for a more efficient and convenient web.
+– [**Toppings**](https://github.com/enrich-platforms/toppings): Unlock a new level of customization, seamlessly enhance your favorite websites, and enjoy a more personalized browsing experience.
 <br />
 
 **P.S.** I use [NeoVim](https://neovim.io) 💪🏻, by the way!
