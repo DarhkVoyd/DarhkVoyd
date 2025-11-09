@@ -2,8 +2,6 @@
 
 > “aligning pieces...”
 
----
-
 ### 🌐 Overview
 
 - The world of `jigsaw` is a **3D interactive home** where all pieces of my life — code, writing, thoughts, memories, and quests — fit together like a puzzle that can also be viewed as a classic webpage.
@@ -13,15 +11,11 @@
 > “The jigsaw isn’t meant to be finished.
 > It’s meant to be _lived in_.”
 
----
-
 ### 🧭 Roadmap (Conceptual)
 
 - [ ] Define all interactive objects & their purposes
 - [ ] Implement 3D “home room” in React Three Fiber
 - [ ] Build classic webpage layouts
-
----
 
 ### 🌌 Two Viewing Modes
 

@@ -8,15 +8,9 @@ Currently, learning and growing as a developer by contributing to the open-sourc
 
 **P.S.** I use [NeoVim](https://neovim.io) 💪🏻, by the way!
 
+### ☕ Support
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarhkVoyd/DarhkVoyd/output/snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/DarhkVoyd/DarhkVoyd/output/snake.svg" />
-  </picture>
-</div>
-
-###
+If you like what I build or want to fuel my next late-night session:
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/darhkvoyd" target="_blank">
@@ -24,6 +18,9 @@ Currently, learning and growing as a developer by contributing to the open-sourc
   </a>
 </div>
 
-
-
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarhkVoyd/DarhkVoyd/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/DarhkVoyd/DarhkVoyd/output/snake.svg" />
+  </picture>
+</div>
